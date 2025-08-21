@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Playwright browsers
+ms-playwright/
+
+# Ignore virtual envs
+venv/
+.env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
